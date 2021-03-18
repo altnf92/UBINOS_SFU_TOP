@@ -14,5 +14,7 @@ When an option MSG is received from the user through BLE, the bottom board is in
 
 
 SFU_main.c : main 
+
 GT.., si115x.. : SI1133 driver code (TWI comm)
+
 LAP_main.c : User lvl ble code
